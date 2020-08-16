@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm a full stack developer who loves to code.
- - :rainbow: Front-end developer: Vue, React, Vanilla, CSS
- - 🔭 Back-end developer: NodeJs, PHP, C++
+ - :rainbow: Front-end: Vue, React, Vanilla, CSS
+ - 🔭 Back-end: NodeJs, PHP, C++
 
 📫 [send me a message](https://docs.google.com/forms/d/e/1FAIpQLScxmuBk9XCRIlm47H2pgwHFC72N4se4_CGHnw7ofeix5SsWpw/viewform?usp=sf_link)
 
