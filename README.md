@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a full stack developer who loves to code.
+ - :rainbow: Front-end developer: Vue, React, Vanilla, CSS
+ - 🔭 Back-end developer: NodeJs, PHP, C++
+
+📫 [send me a message](https://docs.google.com/forms/d/e/1FAIpQLScxmuBk9XCRIlm47H2pgwHFC72N4se4_CGHnw7ofeix5SsWpw/viewform?usp=sf_link)
+
 <!--
 **ferrriii/ferrriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
