@@ -6,6 +6,10 @@ I'm a full stack developer who loves to code.
 
 📫 [send me a message](https://docs.google.com/forms/d/e/1FAIpQLScxmuBk9XCRIlm47H2pgwHFC72N4se4_CGHnw7ofeix5SsWpw/viewform?usp=sf_link)
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=ferrriii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrriii&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
 <!--
 **ferrriii/ferrriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
